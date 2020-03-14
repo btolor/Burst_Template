@@ -1,0 +1,17 @@
+purple-bg: #6908e0
+light-blue-bg: #00ffe5
+main-font: arial weight 400
+footer-font: helvetica weight 400
+
+Optimized Images:
+https://i.postimg.cc/VLMx0Frf/black-brush-light.png
+https://i.postimg.cc/VsSQmwzb/burst-logo.jpg
+https://i.postimg.cc/KcdXYWYp/cart-toothpaste.png
+https://i.postimg.cc/7Zkp3T0g/facebook-icon.png
+https://i.postimg.cc/t4N82CN8/instagram-icon.png
+https://i.postimg.cc/c1tjPccR/oral-care.png
+https://i.postimg.cc/D0GMs2zj/order-shipped.jpg
+https://i.postimg.cc/g0cQ5FMj/track-btn.jpg
+https://i.postimg.cc/bJW5sGqS/twitter-icon.png
+https://i.postimg.cc/hGC6Rywr/view-order-btn.jpg
+https://i.postimg.cc/76fcH1ry/whitening-coconut.png

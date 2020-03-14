@@ -1,0 +1,220 @@
+// Start of background-wrapper styles...
+.wrapper {
+    background-color: $light-blue-bg;
+}
+// End of background-wrapper styles...
+
+// start of header container styles...
+.header {
+    .logo {
+        th {
+            padding-bottom: 0;
+            a {
+                img {
+                    margin: 26px auto;
+                }
+            }
+        }
+    }
+}
+// end of header container styles...
+
+// start of order container styles...
+.order {
+    td {
+        padding: 0 20px;
+    }
+
+    .title {
+
+        .title-col {
+            padding: 0;
+            border-bottom: .1px solid #606060;
+        }
+
+        h2 {
+            font-family: $main-font;
+            font-weight: 400;
+            font-size: 20px;
+            margin-bottom: 0;
+            padding-top: 30px;
+            padding-bottom: 6px;
+            color: $font-color;
+        }
+    }
+    .product{
+        border-bottom: .1px solid #606060;
+        .columns{
+            padding: 15px 0 20px;
+        }
+        .img{
+            padding-right: 0;
+            padding-left: 0;
+        }
+        .info{
+            vertical-align: middle;
+            .name{
+                padding: 18px 0;
+                h3{
+                    font-size: 18px;
+                    color: $font-color;
+                    font-family: $main-font;
+                    font-weight: 400;
+                    margin: 0;
+                }
+            }
+            .qty{
+                padding: 20px 0;
+                h3{
+                    font-size: 18px;
+                    color: $font-color;
+                    font-family: $main-font;
+                    font-weight: 400;
+                    margin: 0;
+                }
+            }
+            .price{
+                padding: 20px 0;
+                h3{
+                    font-size: 18px;
+                    color: $font-color;
+                    font-family: $main-font;
+                    font-weight: 400;
+                    margin: 0;
+                }
+            }
+        }
+    }
+}
+// end of order container styles...
+
+// start of tracking container styles...
+.tracking{
+    .track-btn{
+        .btn-col{
+            padding: 0;
+            padding-bottom: 35px;
+        }
+        a{
+            center{
+                padding-top: 30px;
+                padding-bottom: 20px;
+            }
+        }
+        p{
+            font-family: $main-font;
+            font-size: 14px;
+            color: $font-color;
+            margin: 0;
+            a{
+                text-decoration: none;
+                color: $purple-bg;
+            }
+        }
+    }
+
+    .view-order{
+        .columns{
+            padding-bottom: 0;
+            p{
+                margin-bottom: 0;
+                font-family: $main-font;
+                color: $font-color;
+                font-size: 16px;
+                padding-bottom: 14px;
+            }
+            .address{
+                text-decoration: none;
+                font-family: $main-font;
+                color: $font-color;
+                font-size: 14px;
+                line-height: 1.8;
+            }
+
+            .view-btn{
+                padding-top: 26px;
+            }
+        }
+    }
+}
+// end of tracking container styles...
+
+// start of oral-care container styles...
+.oral-care{
+    .care-img{
+        .columns{
+            padding: 0 !important;
+        }
+    }
+}
+// end of oral-care container styles...
+
+// start of footer container styles...
+.footer{
+    .social-media{
+        background: $purple-bg;
+        background-color: $purple-bg;
+        .columns{
+            padding-top: 8px;
+            padding-bottom: 24px;
+            img{
+                width: 38px;
+                height: 38px;
+            }
+        }
+    }
+    .copyrights-info{
+        background: $purple-bg;
+        background-color: $purple-bg;
+        .columns{
+            p{
+                color: white;
+                font-size: 11px;
+                font-family: $main-font;
+                font-weight: 400;
+                a{
+                    text-decoration: none;
+                    color: white;
+                    line-height: 2;
+                    margin: 0;
+                }
+            }
+            .copyrights{
+                padding-bottom: 8px;
+            }
+            .location{
+                margin-bottom: 0;
+                padding-bottom: 6px;
+                a{
+                   line-height: 2.3; 
+                } 
+            }
+            .phone{
+                padding-bottom: 10px;
+            }
+            .opted-in{
+                width: 70%;
+                margin: 0 auto;
+            }
+           
+        }
+    }
+    .footer-menu{
+        background: $purple-bg;
+        background-color: $purple-bg;
+        .columns{
+            p{
+                color: white;
+                font-size: 11px;
+                font-family: $main-font;
+                margin: 0;
+                padding-bottom: 10px;
+                a{
+                    text-decoration: none;
+                    color:white;
+                }
+            }
+        }
+    }
+}
+// end of footer container styles...
